@@ -35,3 +35,16 @@ android.enableJetifier=true
 #Themovie
 themovieApiKey=YourThemovieApiKey
 ```
+## 2. Clean Architecture.
+El objetivo principal de este enfoque es la separación de preocupaciones para separar su código en capas independientes y diseñarlo para que dependa de abstracciones en lugar de implementaciones concretas, By tío Bob.
+
+<img alt="https://www.themoviedb.org/" src="https://drive.google.com/file/d/120xK3bh9dq-tx_nv2t0mVOl83NT5WGUD/view" width="124" height="124"/>
+
+### 2.1 Presentation
+        Actividades, fragmentos, lógica de interfaz de usuario.
+### 2.2 UseCase: 
+        Casos de Uso, Reglas de Negocio.
+### 2.3 Domain: 
+        Modelos.
+### 2.4 DataSource: 
+        Fuente de datos de red, base de datos, memoria caché, etc.
