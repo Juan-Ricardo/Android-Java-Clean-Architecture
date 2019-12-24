@@ -1,0 +1,2 @@
+include ':presentation', ':usecase', ':domain', ':datasource', ':resource'
+rootProject.name='Zineema'

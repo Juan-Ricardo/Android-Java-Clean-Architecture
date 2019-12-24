@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zineema</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="popular_movie">Películas Populares</string>
+    <string name="popular_movie_network">Películas populares actualizadas</string>
+    <string name="popular_movie_inserts">Películas Populares Insertadas</string>
+    <string name="popular_movie_insert">Películas Popular Insertada</string>
+    <string name="you_are_in_disconnected_mode">estás en modo desconectado</string>
+    <string name="today_movie">Películas Hoy</string>
+    <string name="now_playing_movie">Películas en Cines</string>
+    <string name="empty"> </string>
+    <string name="hint_search_toolbar">Buscar...</string>
+    <string name="alert_dialog_title">Internet</string>
+    <string name="alert_dialog_sub_title">No tienes conexión a internet. Activa el Wi-Fi o los datos móviles, y vuelve a intentarlo.</string>
+    <string name="ok">Ok</string>
+</resources>
