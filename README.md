@@ -50,5 +50,5 @@ El objetivo principal de este enfoque es la separación de preocupaciones para s
 ### 2.4 DataSource: 
         Fuente de Datos de Red, Base de Datos, Memoria Caché, etc.
 <p align="center">        
-  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Arquitectura-2.jpeg" width="624" height="424"/>
+  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Arquitectura-2.jpeg" width="600" height="424"/>
   </p>
