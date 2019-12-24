@@ -38,7 +38,7 @@ themovieApiKey=YourThemovieApiKey
 ## 2. Clean Architecture.
 El objetivo principal de este enfoque es la separación de preocupaciones para separar su código en capas independientes y diseñarlo para que dependa de abstracciones en lugar de implementaciones concretas, By tío Bob.
 
-<img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Arquitectura-Android-Clean-Architecture.jpeg" width="624" height="424"/>
+<img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/ArquitecturaAndroidCleanArchitecture.jpeg" width="624" height="424"/>
 
 ### 2.1 Presentation
         Actividades, fragmentos, lógica de interfaz de usuario.
