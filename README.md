@@ -36,7 +36,7 @@ android.enableJetifier=true
 themovieApiKey=YourThemovieApiKey
 ```
 ## 2. Clean Architecture.
-El objetivo principal de este enfoque es la separación de preocupaciones para separar su código en capas independientes y diseñarlo para que dependa de abstracciones en lugar de implementaciones concretas, By tío Bob.
+El objetivo principal de este enfoque es la separación de preocupaciones para separar su código en capas independientes y diseñarlo para que dependa de abstracciones en lugar de implementaciones concretas, By tío Bob. Para lograr esto, debemos seguir una regla simple pero estricta:  **la Regla de dependencia**, representada por esas 3 flechas que apuntan al centro del gráfico.
 
 <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/ArquitecturaAndroidCleanArchitecture.jpeg" width="624" height="424"/>
 
