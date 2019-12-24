@@ -55,5 +55,5 @@ Para demostrar cómo diseñar una aplicación basada en **Clean Architecture**, 
 ### 2.4 DataSource: 
         Fuente de Datos de Red, Base de Datos, Memoria Caché, etc.
 <p align="center">        
-  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-   Architecture/blob/master/resource/src/main/assets/images/Arquitectura-Android-Module.jpeg" width="724" height="424"/>
+  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Arquitectura-Android-Module.jpeg" width="724" height="424"/>
   </p>
