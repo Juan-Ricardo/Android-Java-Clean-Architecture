@@ -6,7 +6,7 @@ Clean Architecture, Android Java
 
 Introducción
 -----------------
-Zineema es una aplicación para sistemas operativos android, usa minSdkVersion: 21, targetSdkVersion: 28, compileSdkVersion: 28. Fue construido utilizando el enfoque de la Arquitectura Limpia del tío Bob.
+Para demostrar cómo diseñar una aplicación basada en **Clean Architecture**, he creado una aplicación llamada  **Zineema**. Es una aplicación para sistemas operativos android, usa minSdkVersion: 21, targetSdkVersion: 28, compileSdkVersion: 28.
 
 <p align="center">
   <img alt="https://www.themoviedb.org/"
@@ -38,7 +38,7 @@ themovieApiKey=YourThemovieApiKey
 ## 2. Clean Architecture.
 El objetivo principal de este enfoque es la separación de preocupaciones para separar su código en capas independientes y diseñarlo para que dependa de abstracciones en lugar de implementaciones concretas - Tío Bob. Para lograr esto, debemos seguir una regla simple pero estricta:  **la Regla de dependencia**, representada por esas 3 flechas que apuntan al centro del gráfico.
 
-Para demostrar cómo diseñar una aplicación basada en **Clean Architecture**, he creado una aplicación llamada  **Zineema**. La aplicación esta construido en base a módulos, La modularización en aplicaciones de Android representa un patrón de diseño de software que separa las funcionalidades en módulos. Cada aplicación de Android se puede modularizar dividiendo el módulo de aplicación en módulos de biblioteca. El módulo de la biblioteca tendrá sus recursos, archivo de manifiesto y clases. Al final, la herramienta de compilación lo fusionará en un solo APK. 
+Para demostrar cómo diseñar una aplicación basada en **Clean Architecture**, he creado una aplicación llamada  **Zineema**. La aplicación esta construido en base a módulos. La modularización en aplicaciones de Android representa un patrón de diseño de software que separa las funcionalidades en módulos. Cada aplicación de Android se puede modularizar dividiendo el módulo de aplicación en módulos de biblioteca. El módulo de la biblioteca tendrá sus recursos, archivo de manifiesto y clases. Al final, la herramienta de compilación lo fusionará en un solo APK. 
 
 **Zineema**, esta distribuido en los siguientes módulos: **Presentation, UseCase, Domain, DataSource**. 
 
