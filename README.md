@@ -2,7 +2,7 @@ Clean Architecture, Android Java
 ================================
 
 ## Nueva versión disponible escrita en Kotlin:
-[Clean Architecture, Android Kotlin](https://github.com/Juan-Ricardo/Clean-Architecture-Android-Kotlin)
+[Clean Architecture, Android Kotlin](https://github.com/Juan-Ricardo/Android-Kotlin-Clean-Architecture)
 
 Introducción
 -----------------
