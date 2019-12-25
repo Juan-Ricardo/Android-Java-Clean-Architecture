@@ -58,7 +58,7 @@ El objetivo principal de este enfoque es la separación de preocupaciones para s
   </p>
   
   <p align="center">        
-  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Architecture-CAv2.2.0.jpeg" width="724" height="424"/>
+  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Architecture-CAv2.2.0.jpeg" width="624" height="424"/>
   </p>
   
   <p align="center">        
