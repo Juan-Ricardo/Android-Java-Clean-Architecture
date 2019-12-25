@@ -38,7 +38,7 @@ El objetivo principal de este enfoque es la separación de preocupaciones para s
 **Zineema** esta construido en base a módulos. **¿Qué es la modularización?** La modularización en aplicaciones de Android representa un patrón de diseño de software que separa las funcionalidades en módulos. Cada aplicación de Android se puede modularizar dividiendo el módulo de aplicación en módulos de biblioteca. El módulo de la biblioteca tendrá sus recursos, archivo de manifiesto y clases. Al final, la herramienta de compilación lo fusionará en un solo APK. **Zineema**, tiene los siguientes módulos: **Presentation, UseCase, Domain, DataSource**. 
 
 <p align="center">
-  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Arquitectura-3.jpeg" width="724" height="424"/>
+  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Architecture-CAv1.jpeg" width="724" height="424"/>
 </p>
 
 ### 2.1 Presentation
@@ -50,5 +50,5 @@ El objetivo principal de este enfoque es la separación de preocupaciones para s
 ### 2.4 DataSource: 
         Fuente de Datos de Red, Base de Datos, Memoria Caché, etc.
 <p align="center">        
-  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Arquitectura-2.jpeg" width="600" height="424"/>
+  <img src="https://github.com/Juan-Ricardo/Android-Java-Clean-Architecture/blob/master/resource/src/main/assets/images/Android-Clean-Architecture-CAv2.jpeg" width="600" height="424"/>
   </p>
